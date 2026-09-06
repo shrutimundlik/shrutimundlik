@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Shruti Mundlik 👋
 
-<!--
-**shrutimundlik/shrutimundlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Scientist
 
-Here are some ideas to get you started:
+I am passionate about using data to solve real-world problems
+and build data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Statistics
+- Machine Learning
+- Power BI
+
+## 📊 Projects
+
+- E-commerce Sales Analysis
+- Customer Churn Prediction
+- SQL Business Analytics
+
+## 🔗 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/shruti-mundlik/
